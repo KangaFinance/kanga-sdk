@@ -1456,10 +1456,10 @@
     "@types/yargs" "^15.0.0"
     chalk "^3.0.0"
 
-"@kangafinance/core@^0.0.25":
-  version "0.0.25"
-  resolved "https://registry.yarnpkg.com/@kangafinance/core/-/core-0.0.25.tgz#5e3b4e834230d7c10df29ba4fe69ffdeb07954cd"
-  integrity sha512-t8CwMK8ZmrEUQJ3d5yYboWMnYGBPFOfNfnOxiMi+vV2VV+kLpaUpPufkF2kYoZuwxG1+MeWY7vw+rb3v6wH27Q==
+"@kangafinance/core@^0.0.29":
+  version "0.0.29"
+  resolved "https://registry.yarnpkg.com/@kangafinance/core/-/core-0.0.29.tgz#139322df3ed464a2ef16aa147f4266d88d89034d"
+  integrity sha512-IJ7Z+ppl4j8qMUZO7IOM/ZZQjP9Tag/DY0ZEhLiuW5LT0Ar36QSk8xrZX/bFneG6FwxtR9e+G+MpzKppflD8eg==
 
 "@kangafinance/prettier-config@^0.0.3":
   version "0.0.3"
